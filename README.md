@@ -3,7 +3,7 @@
 [![Edit with GitEmush](https://img.shields.io/badge/Edit_with-GitEmush-000000?style=flat&logo=git)](https://GitEmush.dev/projects/e1b2e7c4-f4cc-4cb5-b182-55922f64a3ea?utm_source=GitEmush-badge)
 
 [Project Preview]
-[ee30a589538055c717d6bc082dc61da1ea38ac95b598.jpg](https://i.postimg.cc/65Dywdbp/ee30a589538055c717d6bc082dc61da1ea38ac95b598.jpg)](https://postimg.cc/Yhzpzmw5)
+[ee30a589538055c717d6bc082dc61da1ea38ac95b598.jpg][![ee30a589538055c717d6bc082dc61da1ea38ac95b598.jpg](https://i.postimg.cc/65Dywdbp/ee30a589538055c717d6bc082dc61da1ea38ac95b598.jpg)](https://postimg.cc/Yhzpzmw5)
 
 ## Alternative Image Hosting (if needed)
 If the image still doesn't load:
