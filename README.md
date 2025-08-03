@@ -12,7 +12,7 @@ If the image still doesn't load:
    - Or upload to your repo's `/assets/` folder
 2. Use a free image hosting service like:
    - [Imgur](https://imgur.com)
- -[https://preview--bridgeai-connect.lovable.app/)
+ -[https://postimages.org/)
 
 Example with GitHub-hosted image:
 ```markdown
