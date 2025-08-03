@@ -3,7 +3,7 @@
 [![Edit with GitEmush](https://img.shields.io/badge/Edit_with-GitEmush-000000?style=flat&logo=git)](https://GitEmush.dev/projects/https://preview--bridgeai-connect.lovable.app/source=GitEmush-badge)
 
 [Project Preview]
-[https://preview--bridgeai-connect.lovable.app/]
+[[![Screenshot-20250803-221105.jpg](https://i.postimg.cc/XqLL6bCS/Screenshot-20250803-221105.jpg)](https://postimg.cc/bSGk14g3)]
 
 ## Alternative Image Hosting (if needed)
 If the image still doesn't load:
